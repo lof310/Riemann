@@ -1,2 +1,4 @@
 # Riemann
-Code for the riemann hypothesis
+
+Code for numerical experiments around the Riemann zeta function and the
+Riemann Hypothesis.
