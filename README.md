@@ -1,4 +1,4 @@
 # Riemann
 
-Code for numerical experiments around the Riemann zeta function and the
+Repository containing the paper and numerical experiments, plots,etc around the $\eta(s)$ function(The real Protagonist) and the
 Riemann Hypothesis.
